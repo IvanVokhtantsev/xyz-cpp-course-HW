@@ -14,4 +14,4 @@ This directory contains the entire compiled SFML library to simplify things. The
 # License and Copyright
 Based on the ApplesGame project at https://github.com/XYZ-School/xyz-c-course (c) 2023, XYZ School. All rights reserved. Created by Aleksandr Rybalka (poltergeist@gmail.com).
 Game Developer - Ivan Vokhtantsev (ivanvohtancev@gmail.com),
-Digital Artist - Daniil Velicodnyy (danyaurb42@gmail.com).
+Digital Artist - Daniil Velikodnyi (danyaurb42@gmail.com).
